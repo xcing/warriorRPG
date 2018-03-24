@@ -1,0 +1,878 @@
+fileFormatVersion: 2
+guid: 00382132244b8934d85777f4585dff75
+timeCreated: 1437754655
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Guanyu_Dead_00000
+    21300002: Guanyu_Dead_00001
+    21300004: Guanyu_Dead_00002
+    21300006: Guanyu_Dead_00003
+    21300008: Guanyu_Dead_00004
+    21300010: Guanyu_Dead_00005
+    21300012: Guanyu_Dead_00006
+    21300014: Guanyu_Dead_00007
+    21300016: Guanyu_Dead_00008
+    21300018: Guanyu_Dead_00009
+    21300020: Guanyu_Dead_00010
+    21300022: Guanyu_Dead_00011
+    21300024: Guanyu_Dead_00012
+    21300026: Guanyu_Dead_00013
+    21300028: Guanyu_Dead_00014
+    21300030: Guanyu_Dead_00015
+    21300032: Guanyu_Dead_00016
+    21300034: Guanyu_Dead_00017
+    21300036: Guanyu_Dead_00018
+    21300038: Guanyu_Dead_00019
+    21300040: Guanyu_Dead_00020
+    21300042: Guanyu_Dead_00021
+    21300044: Guanyu_Dead_00022
+    21300046: Guanyu_Dead_00023
+    21300048: Guanyu_Dead_00024
+    21300050: Guanyu_Dead_00025
+    21300052: Guanyu_Dead_00026
+    21300054: Guanyu_Dead_00027
+    21300056: Guanyu_Dead_00028
+    21300058: Guanyu_Dead_00029
+    21300060: Guanyu_Dead_00030
+    21300062: Guanyu_Dead_00031
+    21300064: Guanyu_Dead_00032
+    21300066: Guanyu_Dead_00033
+    21300068: Guanyu_Dead_00034
+    21300070: Guanyu_Dead_00035
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Guanyu_Dead_00000
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 33
+        width: 137
+        height: 159
+      alignment: 9
+      pivot: {x: 0.4890511, y: 0.6383648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 57.5}
+        - {x: -35, y: 13.5}
+        - {x: -35, y: 3.5}
+        - {x: -29, y: 1.5}
+        - {x: -35, y: -12.5}
+        - {x: -36, y: 12.5}
+        - {x: -31, y: 30.5}
+        - {x: -36, y: 57.5}
+        - {x: -67, y: 57.5}
+        - {x: -67, y: -101.5}
+        - {x: 69, y: -101.5}
+        - {x: 70, y: -100.5}
+        - {x: 70, y: 2.5}
+        - {x: 23, y: 57.5}
+    - name: Guanyu_Dead_00001
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 33
+        width: 137
+        height: 159
+      alignment: 9
+      pivot: {x: 0.4890511, y: 0.6383648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 31.5}
+        - {x: -36, y: 13.5}
+        - {x: -35, y: -3.5}
+        - {x: -36, y: 12.5}
+        - {x: -31, y: 30.5}
+        - {x: -36, y: 57.5}
+        - {x: -62, y: 57.5}
+        - {x: -67, y: 43.5}
+        - {x: -67, y: -80.5}
+        - {x: -58, y: -101.5}
+        - {x: 38, y: -101.5}
+        - {x: 52, y: -96.5}
+        - {x: 70, y: -55.5}
+        - {x: 70, y: -6.5}
+        - {x: 17, y: 39.5}
+    - name: Guanyu_Dead_00002
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 91
+        width: 136
+        height: 159
+      alignment: 9
+      pivot: {x: 0.49264705, y: 0.6383648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: -4.5}
+        - {x: 32, y: 9.5}
+        - {x: 30, y: -3.5}
+        - {x: 26, y: -5.5}
+        - {x: 28, y: -4.5}
+        - {x: 30, y: -1.5}
+        - {x: 26, y: 17.5}
+        - {x: 14, y: 32.5}
+        - {x: -12, y: 32.5}
+        - {x: -36, y: 13.5}
+        - {x: -35, y: -3.5}
+        - {x: -36, y: 12.5}
+        - {x: -31, y: 30.5}
+        - {x: -36, y: 57.5}
+        - {x: -67, y: 57.5}
+        - {x: -67, y: -101.5}
+        - {x: 37, y: -101.5}
+        - {x: 47, y: -93.5}
+        - {x: 65, y: -67.5}
+        - {x: 69, y: -59.5}
+    - name: Guanyu_Dead_00003
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 41
+        width: 155
+        height: 130
+      alignment: 9
+      pivot: {x: 0.63225806, y: 0.9346154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 8.5}
+        - {x: -11, y: 8.5}
+        - {x: -15, y: 3.5}
+        - {x: -18, y: -0.5}
+        - {x: -40, y: -24.5}
+        - {x: -98, y: -83.5}
+        - {x: -98, y: -94.5}
+        - {x: -52, y: -121.5}
+        - {x: -8, y: -121.5}
+        - {x: 57, y: -99.5}
+        - {x: 57, y: -55.5}
+        - {x: 44, y: -2.5}
+      - - {x: 42, y: -47.5}
+        - {x: 40, y: -49.5}
+        - {x: 40, y: -54.5}
+        - {x: 41, y: -56.5}
+        - {x: 48, y: -56.5}
+        - {x: 48, y: -47.5}
+    - name: Guanyu_Dead_00004
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 173
+        width: 155
+        height: 134
+      alignment: 9
+      pivot: {x: 0.63225806, y: 0.9365672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 8.5}
+        - {x: -24, y: 8.5}
+        - {x: -25, y: 7.5}
+        - {x: -47, y: -17.5}
+        - {x: -98, y: -77.5}
+        - {x: -98, y: -116.5}
+        - {x: -74, y: -125.5}
+        - {x: 42, y: -125.5}
+        - {x: 57, y: -108.5}
+        - {x: 57, y: -19.5}
+        - {x: 53, y: 1.5}
+    - name: Guanyu_Dead_00005
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 326
+        width: 155
+        height: 132
+      alignment: 9
+      pivot: {x: 0.63225806, y: 0.93560606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: 6.5}
+        - {x: 40, y: 8.5}
+        - {x: -17, y: 8.5}
+        - {x: -98, y: -76.5}
+        - {x: -98, y: -94.5}
+        - {x: -81, y: -123.5}
+        - {x: 8, y: -123.5}
+        - {x: 20, y: -116.5}
+        - {x: 57, y: -100.5}
+        - {x: 57, y: -9.5}
+      - - {x: 37, y: -52.5}
+        - {x: 38, y: -55.5}
+        - {x: 42, y: -55.5}
+        - {x: 44, y: -53.5}
+        - {x: 44, y: -51.5}
+        - {x: 42, y: -49.5}
+    - name: Guanyu_Dead_00006
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 169
+        width: 155
+        height: 138
+      alignment: 9
+      pivot: {x: 0.63225806, y: 0.9384058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 8.5}
+        - {x: -17, y: -0.5}
+        - {x: -61, y: -5.5}
+        - {x: -98, y: -61.5}
+        - {x: -98, y: -127.5}
+        - {x: -81, y: -129.5}
+        - {x: 16, y: -129.5}
+        - {x: 57, y: -95.5}
+        - {x: 57, y: -17.5}
+        - {x: 42, y: 8.5}
+      - - {x: 35, y: -52.5}
+        - {x: 36, y: -55.5}
+        - {x: 42, y: -55.5}
+        - {x: 44, y: -53.5}
+        - {x: 44, y: -50.5}
+        - {x: 42, y: -48.5}
+    - name: Guanyu_Dead_00007
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2
+        width: 161
+        height: 87
+      alignment: 9
+      pivot: {x: 0.60248446, y: 1.5114943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: -44.5}
+        - {x: -89, y: -47.5}
+        - {x: -97, y: -66.5}
+        - {x: -97, y: -106.5}
+        - {x: -90, y: -128.5}
+        - {x: -83, y: -131.5}
+        - {x: 8, y: -131.5}
+        - {x: 64, y: -103.5}
+        - {x: 64, y: -55.5}
+        - {x: 60, y: -44.5}
+    - name: Guanyu_Dead_00008
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 373
+        width: 163
+        height: 85
+      alignment: 9
+      pivot: {x: 0.607362, y: 1.5235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -44.5}
+        - {x: -99, y: -48.5}
+        - {x: -99, y: -110.5}
+        - {x: -72, y: -129.5}
+        - {x: 8, y: -129.5}
+        - {x: 62, y: -118.5}
+        - {x: 64, y: -110.5}
+        - {x: 64, y: -44.5}
+    - name: Guanyu_Dead_00009
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 460
+        width: 169
+        height: 72
+      alignment: 9
+      pivot: {x: 0.6213018, y: 1.6180556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102, y: -44.5}
+        - {x: -105, y: -45.5}
+        - {x: -105, y: -116.5}
+        - {x: 43, y: -116.5}
+        - {x: 57, y: -111.5}
+        - {x: 64, y: -104.5}
+        - {x: 64, y: -44.5}
+    - name: Guanyu_Dead_00010
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 414
+        width: 197
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5989848, y: 1.4135803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106, y: -33.5}
+        - {x: -118, y: -52.5}
+        - {x: -118, y: -112.5}
+        - {x: -109, y: -114.5}
+        - {x: 79, y: -114.5}
+        - {x: 79, y: -33.5}
+    - name: Guanyu_Dead_00011
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 581
+        width: 209
+        height: 85
+      alignment: 9
+      pivot: {x: 0.61244017, y: 1.3470588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115, y: -29.5}
+        - {x: -128, y: -52.5}
+        - {x: -128, y: -104.5}
+        - {x: -110, y: -114.5}
+        - {x: 77, y: -114.5}
+        - {x: 81, y: -111.5}
+        - {x: 81, y: -29.5}
+    - name: Guanyu_Dead_00012
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 215
+        height: 87
+      alignment: 9
+      pivot: {x: 0.59534883, y: 1.3160919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -121, y: -27.5}
+        - {x: -128, y: -56.5}
+        - {x: -128, y: -99.5}
+        - {x: -109, y: -114.5}
+        - {x: 87, y: -114.5}
+        - {x: 87, y: -27.5}
+    - name: Guanyu_Dead_00013
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 371
+        width: 225
+        height: 87
+      alignment: 9
+      pivot: {x: 0.59555554, y: 1.3160919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -109, y: -27.5}
+        - {x: -134, y: -46.5}
+        - {x: -134, y: -103.5}
+        - {x: -130, y: -109.5}
+        - {x: -108, y: -114.5}
+        - {x: 83, y: -114.5}
+        - {x: 91, y: -111.5}
+        - {x: 91, y: -39.5}
+        - {x: 83, y: -27.5}
+    - name: Guanyu_Dead_00014
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 675
+        width: 230
+        height: 91
+      alignment: 9
+      pivot: {x: 0.6043478, y: 1.2362638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -120, y: -21.5}
+        - {x: -139, y: -61.5}
+        - {x: -139, y: -97.5}
+        - {x: -116, y: -112.5}
+        - {x: 91, y: -112.5}
+        - {x: 91, y: -27.5}
+        - {x: 90, y: -21.5}
+    - name: Guanyu_Dead_00015
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 460
+        width: 240
+        height: 96
+      alignment: 9
+      pivot: {x: 0.6125, y: 1.171875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124, y: -16.5}
+        - {x: -147, y: -47.5}
+        - {x: -147, y: -96.5}
+        - {x: -138, y: -112.5}
+        - {x: 87, y: -112.5}
+        - {x: 93, y: -111.5}
+        - {x: 93, y: -16.5}
+    - name: Guanyu_Dead_00016
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 668
+        width: 248
+        height: 98
+      alignment: 9
+      pivot: {x: 0.608871, y: 1.1479592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -151, y: -14.5}
+        - {x: -151, y: -96.5}
+        - {x: -146, y: -112.5}
+        - {x: 97, y: -112.5}
+        - {x: 97, y: -14.5}
+    - name: Guanyu_Dead_00017
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 558
+        width: 256
+        height: 104
+      alignment: 9
+      pivot: {x: 0.60546875, y: 1.1009616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -152, y: -10.5}
+        - {x: -155, y: -34.5}
+        - {x: -155, y: -108.5}
+        - {x: -154, y: -114.5}
+        - {x: 87, y: -114.5}
+        - {x: 94, y: -111.5}
+        - {x: 101, y: -105.5}
+        - {x: 101, y: -10.5}
+    - name: Guanyu_Dead_00018
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 664
+        width: 266
+        height: 102
+      alignment: 9
+      pivot: {x: 0.60902256, y: 1.0833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -157, y: -8.5}
+        - {x: -162, y: -22.5}
+        - {x: -162, y: -99.5}
+        - {x: -131, y: -110.5}
+        - {x: 104, y: -110.5}
+        - {x: 104, y: -8.5}
+    - name: Guanyu_Dead_00019
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 534
+        width: 180
+        height: 75
+      alignment: 9
+      pivot: {x: 0.6, y: 1.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108, y: -31.5}
+        - {x: -108, y: -98.5}
+        - {x: -95, y: -106.5}
+        - {x: 72, y: -106.5}
+        - {x: 72, y: -45.5}
+        - {x: 68, y: -31.5}
+    - name: Guanyu_Dead_00020
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 252
+        width: 189
+        height: 78
+      alignment: 9
+      pivot: {x: 0.58201057, y: 1.3653846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: -28.5}
+        - {x: -110, y: -91.5}
+        - {x: -73, y: -106.5}
+        - {x: 64, y: -106.5}
+        - {x: 67, y: -100.5}
+        - {x: 67, y: -30.5}
+        - {x: 64, y: -28.5}
+      - - {x: 67, y: -63.5}
+        - {x: 66, y: -65.5}
+        - {x: 66, y: -74.5}
+        - {x: 70, y: -76.5}
+        - {x: 77, y: -76.5}
+        - {x: 79, y: -75.5}
+        - {x: 79, y: -63.5}
+    - name: Guanyu_Dead_00021
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 332
+        width: 197
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5786802, y: 1.33125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65, y: -26.5}
+        - {x: 25, y: -26.5}
+        - {x: 18, y: -37.5}
+        - {x: 18, y: -44.5}
+        - {x: -20, y: -44.5}
+        - {x: -75, y: -26.5}
+        - {x: -108, y: -26.5}
+        - {x: -111, y: -28.5}
+        - {x: -111, y: -45.5}
+        - {x: -114, y: -62.5}
+        - {x: -114, y: -88.5}
+        - {x: -108, y: -88.5}
+        - {x: -114, y: -95.5}
+        - {x: -114, y: -96.5}
+        - {x: -88, y: -106.5}
+        - {x: 36, y: -106.5}
+        - {x: 73, y: -90.5}
+        - {x: 75, y: -86.5}
+        - {x: 75, y: -74.5}
+      - - {x: 71, y: -61.5}
+        - {x: 71, y: -73.5}
+        - {x: 72, y: -74.5}
+        - {x: 83, y: -74.5}
+        - {x: 83, y: -61.5}
+    - name: Guanyu_Dead_00022
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 497
+        width: 204
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5735294, y: 1.2987804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99, y: -64.5}
+        - {x: -99, y: -91.5}
+        - {x: -97, y: -93.5}
+        - {x: -81, y: -106.5}
+        - {x: 53, y: -106.5}
+        - {x: 71, y: -100.5}
+        - {x: 71, y: -39.5}
+        - {x: 67, y: -24.5}
+        - {x: -49, y: -24.5}
+        - {x: -92, y: -35.5}
+      - - {x: 70, y: -88.5}
+        - {x: 72, y: -91.5}
+        - {x: 81, y: -91.5}
+        - {x: 81, y: -81.5}
+        - {x: 72, y: -81.5}
+        - {x: 70, y: -85.5}
+      - - {x: -98, y: -26.5}
+        - {x: -115, y: -26.5}
+        - {x: -116, y: -29.5}
+        - {x: -117, y: -39.5}
+        - {x: -117, y: -85.5}
+        - {x: -116, y: -86.5}
+        - {x: -109, y: -86.5}
+        - {x: -103, y: -84.5}
+        - {x: -94, y: -78.5}
+        - {x: -79, y: -62.5}
+        - {x: -79, y: -38.5}
+      - - {x: 77, y: -61.5}
+        - {x: 74, y: -64.5}
+        - {x: 74, y: -68.5}
+        - {x: 76, y: -73.5}
+        - {x: 87, y: -73.5}
+        - {x: 87, y: -61.5}
+    - name: Guanyu_Dead_00023
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 611
+        width: 211
+        height: 62
+      alignment: 9
+      pivot: {x: 0.56398106, y: 1.3629032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -118, y: -74.5}
+        - {x: -119, y: -75.5}
+        - {x: -119, y: -84.5}
+        - {x: -109, y: -84.5}
+        - {x: -108, y: -83.5}
+        - {x: -107, y: -79.5}
+        - {x: -111, y: -74.5}
+      - - {x: -90, y: -32.5}
+        - {x: -96, y: -31.5}
+        - {x: -111, y: -31.5}
+        - {x: -117, y: -35.5}
+        - {x: -117, y: -70.5}
+        - {x: -113, y: -74.5}
+        - {x: -109, y: -75.5}
+        - {x: -101, y: -75.5}
+        - {x: -96, y: -71.5}
+        - {x: -89, y: -54.5}
+        - {x: -89, y: -37.5}
+      - - {x: 81, y: -70.5}
+        - {x: 84, y: -71.5}
+        - {x: 92, y: -71.5}
+        - {x: 92, y: -58.5}
+        - {x: 81, y: -58.5}
+      - - {x: 39, y: -22.5}
+        - {x: 38, y: -25.5}
+        - {x: 38, y: -48.5}
+        - {x: 52, y: -58.5}
+        - {x: 68, y: -58.5}
+        - {x: 74, y: -51.5}
+        - {x: 74, y: -29.5}
+        - {x: 72, y: -22.5}
+      - - {x: 18, y: -28.5}
+        - {x: 18, y: -41.5}
+        - {x: 28, y: -41.5}
+        - {x: 32, y: -38.5}
+        - {x: 32, y: -33.5}
+        - {x: 31, y: -28.5}
+    - name: Guanyu_Dead_00024
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 283
+        width: 221
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5565611, y: 1.2383721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94.00001, y: -42.5}
+        - {x: -99.00001, y: -63.5}
+        - {x: -99.00001, y: -96.5}
+        - {x: -85.00001, y: -106.5}
+        - {x: 51.999992, y: -106.5}
+        - {x: 65.99999, y: -101.5}
+        - {x: 65.99999, y: -42.5}
+      - - {x: -120.00001, y: -73.5}
+        - {x: -123.00001, y: -74.5}
+        - {x: -123.00001, y: -84.5}
+        - {x: -121.00001, y: -86.5}
+        - {x: -114.00001, y: -86.5}
+        - {x: -110.00001, y: -84.5}
+        - {x: -110.00001, y: -77.5}
+        - {x: -112.00001, y: -73.5}
+      - - {x: 84.99999, y: -63.5}
+        - {x: 84.99999, y: -69.5}
+        - {x: 88.99999, y: -72.5}
+        - {x: 95.99999, y: -72.5}
+        - {x: 97.99999, y: -71.5}
+        - {x: 97.99999, y: -59.5}
+        - {x: 89.99999, y: -59.5}
+      - - {x: -112.00001, y: -30.5}
+        - {x: -119.00001, y: -32.5}
+        - {x: -119.00001, y: -67.5}
+        - {x: -112.00001, y: -70.5}
+        - {x: -99.00001, y: -70.5}
+        - {x: -96.00001, y: -69.5}
+        - {x: -95.00001, y: -64.5}
+        - {x: -95.00001, y: -30.5}
+      - - {x: 58.999992, y: -20.5}
+        - {x: 48.999992, y: -29.5}
+        - {x: 48.999992, y: -45.5}
+        - {x: 59.999992, y: -54.5}
+        - {x: 75.99999, y: -54.5}
+        - {x: 77.99999, y: -53.5}
+        - {x: 77.99999, y: -22.5}
+        - {x: 76.99999, y: -20.5}
+      - - {x: 16.999992, y: -24.5}
+        - {x: 16.999992, y: -34.5}
+        - {x: 18.999992, y: -37.5}
+        - {x: 26.999992, y: -37.5}
+        - {x: 30.999992, y: -35.5}
+        - {x: 30.999992, y: -24.5}
+    - name: Guanyu_Dead_00025
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 309
+        width: 161
+        height: 62
+      alignment: 9
+      pivot: {x: 0.60248446, y: 1.717742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97, y: -44.5}
+        - {x: -97, y: -102.5}
+        - {x: -90, y: -106.5}
+        - {x: 60, y: -106.5}
+        - {x: 64, y: -105.5}
+        - {x: 64, y: -53.5}
+        - {x: 58, y: -44.5}
+    - name: Guanyu_Dead_00026
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 105
+        width: 161
+        height: 62
+      alignment: 9
+      pivot: {x: 0.60248446, y: 1.717742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97, y: -44.5}
+        - {x: -97, y: -102.5}
+        - {x: -90, y: -106.5}
+        - {x: 60, y: -106.5}
+        - {x: 64, y: -105.5}
+        - {x: 64, y: -53.5}
+        - {x: 58, y: -44.5}
+    - name: Guanyu_Dead_00027
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 661
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 500, y: -332.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Guanyu_Dead_00028
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 105
+        width: 161
+        height: 62
+      alignment: 9
+      pivot: {x: 0.60248446, y: 1.717742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97, y: -44.5}
+        - {x: -97, y: -102.5}
+        - {x: -90, y: -106.5}
+        - {x: 60, y: -106.5}
+        - {x: 64, y: -105.5}
+        - {x: 64, y: -53.5}
+        - {x: 58, y: -44.5}
+    - name: Guanyu_Dead_00029
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 309
+        width: 161
+        height: 62
+      alignment: 9
+      pivot: {x: 0.60248446, y: 1.717742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97, y: -44.5}
+        - {x: -97, y: -102.5}
+        - {x: -90, y: -106.5}
+        - {x: 60, y: -106.5}
+        - {x: 64, y: -105.5}
+        - {x: 64, y: -53.5}
+        - {x: 58, y: -44.5}
+    - name: Guanyu_Dead_00030
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 105
+        width: 161
+        height: 62
+      alignment: 9
+      pivot: {x: 0.60248446, y: 1.717742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97, y: -44.5}
+        - {x: -97, y: -102.5}
+        - {x: -90, y: -106.5}
+        - {x: 60, y: -106.5}
+        - {x: 64, y: -105.5}
+        - {x: 64, y: -53.5}
+        - {x: 58, y: -44.5}
+    - name: Guanyu_Dead_00031
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 661
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 500, y: -332.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Guanyu_Dead_00032
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 661
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 500, y: -332.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Guanyu_Dead_00033
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 661
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 500, y: -332.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Guanyu_Dead_00034
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 661
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 500, y: -332.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Guanyu_Dead_00035
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 661
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 500, y: -332.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

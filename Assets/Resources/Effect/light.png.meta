@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 38a59a13b9456bf43a0a29bc1f554cef
+timeCreated: 1435761011
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: light_0
+    21300002: light_1
+    21300004: light_2
+    21300006: light_3
+    21300008: light_4
+    21300010: light_5
+    21300012: light_6
+    21300014: light_7
+    21300016: light_8
+    21300018: light_9
+    21300020: light_10
+    21300022: Forcewave1_00000
+    21300024: Forcewave1_00001
+    21300026: Forcewave1_00002
+    21300028: Forcewave1_00003
+    21300030: Forcewave1_00004
+    21300032: Forcewave1_00005
+    21300034: Forcewave1_00006
+    21300036: Forcewave1_00007
+    21300038: Forcewave1_00008
+    21300040: Forcewave1_00009
+    21300042: Forcewave1_00010
+    21300044: Forcewave1_00011
+    21300046: Forcewave1_00012
+    21300048: Forcewave1_00013
+    21300050: Forcewave1_00014
+    21300052: Forcewave1_00015
+    21300054: Forcewave1_00016
+    21300056: Forcewave1_00017
+    21300058: Forcewave1_00018
+    21300060: Forcewave1_00019
+    21300062: Forcewave1_00020
+    21300064: Forcewave1_00021
+    21300066: Forcewave1_00022
+    21300068: Forcewave1_00023
+    21300070: Forcewave1_00024
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Forcewave1_00000
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2010
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00001
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2010
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00002
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2010
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00003
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 2010
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00004
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 2010
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00005
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1508
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00006
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1508
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00007
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1508
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00008
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1508
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00009
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1006
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00010
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1006
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00011
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1006
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00012
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1006
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00013
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 504
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00014
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 504
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00015
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 504
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00016
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 504
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00017
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00018
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00019
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 2
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00020
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2010
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00021
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2010
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00022
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2010
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00023
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2010
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forcewave1_00024
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2010
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

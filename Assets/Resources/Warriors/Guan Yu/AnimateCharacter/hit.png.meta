@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: a5f26d5bdf039684b812626483c1c06b
+timeCreated: 1437754657
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Guanyu_Hit_00000
+    21300002: Guanyu_Hit_00001
+    21300004: Guanyu_Hit_00002
+    21300006: Guanyu_Hit_00003
+    21300008: Guanyu_Hit_00004
+    21300010: Guanyu_Hit_00005
+    21300012: Guanyu_Hit_00006
+    21300014: Guanyu_Hit_00007
+    21300016: Guanyu_Hit_00008
+    21300018: Guanyu_Hit_00009
+    21300020: Guanyu_Hit_00010
+    21300022: Guanyu_Hit_00011
+    21300024: Guanyu_Hit_00012
+    21300026: Guanyu_Hit_00013
+    21300028: Guanyu_Hit_00014
+    21300030: Guanyu_Hit_00015
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Guanyu_Hit_00000
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 13
+        width: 137
+        height: 159
+      alignment: 9
+      pivot: {x: 0.4890511, y: 0.6383648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 40.5}
+        - {x: -34, y: 12.5}
+        - {x: -35, y: 3.5}
+        - {x: -29, y: 1.5}
+        - {x: -35, y: -12.5}
+        - {x: -36, y: 12.5}
+        - {x: -31, y: 30.5}
+        - {x: -36, y: 57.5}
+        - {x: -62, y: 57.5}
+        - {x: -67, y: 44.5}
+        - {x: -67, y: -81.5}
+        - {x: -58, y: -101.5}
+        - {x: 47, y: -101.5}
+        - {x: 70, y: -62.5}
+        - {x: 70, y: 6.5}
+        - {x: 53, y: 23.5}
+    - name: Guanyu_Hit_00001
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 347
+        width: 139
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5179856, y: 0.6383648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 57.5}
+        - {x: -33, y: 22.5}
+        - {x: -40, y: 3.5}
+        - {x: -31, y: 3.5}
+        - {x: -37, y: -12.5}
+        - {x: -42, y: 5.5}
+        - {x: -38, y: 12.5}
+        - {x: -36, y: 30.5}
+        - {x: -40, y: 57.5}
+        - {x: -56, y: 57.5}
+        - {x: -68, y: 37.5}
+        - {x: -72, y: 20.5}
+        - {x: -72, y: -58.5}
+        - {x: -61, y: -97.5}
+        - {x: -51, y: -101.5}
+        - {x: -47, y: -101.5}
+        - {x: -44, y: -86.5}
+        - {x: -44, y: -99.5}
+        - {x: -43, y: -101.5}
+        - {x: 50, y: -101.5}
+        - {x: 60, y: -100.5}
+        - {x: 67, y: -89.5}
+        - {x: 67, y: 2.5}
+        - {x: 32, y: 57.5}
+    - name: Guanyu_Hit_00002
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 347
+        width: 143
+        height: 162
+      alignment: 9
+      pivot: {x: 0.57342654, y: 0.63271606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: -12.5}
+        - {x: 11, y: 35.5}
+        - {x: -25, y: 31.5}
+        - {x: -42, y: 19.5}
+        - {x: -46, y: 5.5}
+        - {x: -37, y: 3.5}
+        - {x: -46, y: -12.5}
+        - {x: -46, y: -14.5}
+        - {x: -46, y: -8.5}
+        - {x: -49, y: -3.5}
+        - {x: -38, y: 36.5}
+        - {x: -42, y: 59.5}
+        - {x: -65, y: 59.5}
+        - {x: -82, y: 52.5}
+        - {x: -82, y: -61.5}
+        - {x: -70, y: -98.5}
+        - {x: -58, y: -99.5}
+        - {x: -53, y: -88.5}
+        - {x: -54, y: -102.5}
+        - {x: 8, y: -102.5}
+        - {x: 16, y: -101.5}
+        - {x: 40, y: -93.5}
+        - {x: 61, y: -47.5}
+    - name: Guanyu_Hit_00003
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 176
+        width: 164
+        height: 169
+      alignment: 9
+      pivot: {x: 0.36585367, y: 0.6183432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -84.5}
+        - {x: 104, y: -46.5}
+        - {x: 104, y: 16.5}
+        - {x: 47, y: 64.5}
+        - {x: 23, y: 64.5}
+        - {x: 17, y: 59.5}
+        - {x: 7, y: 27.5}
+        - {x: 8, y: 16.5}
+        - {x: 0, y: 17.5}
+        - {x: -3, y: 17.5}
+        - {x: -7, y: 16.5}
+        - {x: -2, y: 17.5}
+        - {x: 4, y: 21.5}
+        - {x: 2, y: 30.5}
+        - {x: -27, y: 32.5}
+        - {x: -29, y: 29.5}
+        - {x: -45, y: 23.5}
+        - {x: -51, y: 18.5}
+        - {x: -55, y: 13.5}
+        - {x: -53, y: 6.5}
+        - {x: -60, y: -38.5}
+        - {x: -60, y: -104.5}
+        - {x: -40, y: -104.5}
+        - {x: -28, y: -99.5}
+        - {x: 10, y: -99.5}
+        - {x: 28, y: -90.5}
+    - name: Guanyu_Hit_00004
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 508
+        width: 177
+        height: 154
+      alignment: 9
+      pivot: {x: 0.4124294, y: 0.6850649}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 48.5}
+        - {x: 11, y: 48.5}
+        - {x: -56, y: 25.5}
+        - {x: -71, y: 8.5}
+        - {x: -73, y: -4.5}
+        - {x: -73, y: -105.5}
+        - {x: 39, y: -105.5}
+        - {x: 104, y: -38.5}
+        - {x: 104, y: 23.5}
+    - name: Guanyu_Hit_00005
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 23
+        width: 175
+        height: 151
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.705298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86, y: 36.5}
+        - {x: 47, y: 44.5}
+        - {x: 7, y: 44.5}
+        - {x: -3, y: 33.5}
+        - {x: -16, y: 17.5}
+        - {x: -17, y: 14.5}
+        - {x: -23, y: 11.5}
+        - {x: -17, y: 13.5}
+        - {x: -16, y: 16.5}
+        - {x: -16, y: 19.5}
+        - {x: -14, y: 26.5}
+        - {x: -50, y: 36.5}
+        - {x: -82, y: 15.5}
+        - {x: -85, y: -9.5}
+        - {x: -85, y: -106.5}
+        - {x: 15, y: -106.5}
+        - {x: 85, y: -87.5}
+        - {x: 90, y: -76.5}
+        - {x: 90, y: 19.5}
+    - name: Guanyu_Hit_00006
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 511
+        width: 204
+        height: 151
+      alignment: 9
+      pivot: {x: 0.47549018, y: 0.705298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107, y: 8.5}
+        - {x: 86, y: 44.5}
+        - {x: -39, y: 44.5}
+        - {x: -97, y: 19.5}
+        - {x: -97, y: -106.5}
+        - {x: -55, y: -106.5}
+        - {x: -21, y: -93.5}
+        - {x: 88, y: -99.5}
+        - {x: 107, y: -73.5}
+    - name: Guanyu_Hit_00007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 347
+        width: 219
+        height: 153
+      alignment: 9
+      pivot: {x: 0.47945204, y: 0.6960784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102, y: 35.5}
+        - {x: 37, y: 46.5}
+        - {x: -31, y: 46.5}
+        - {x: -96, y: 17.5}
+        - {x: -105, y: 4.5}
+        - {x: -105, y: -106.5}
+        - {x: -23, y: -106.5}
+        - {x: 30, y: -92.5}
+        - {x: 114, y: -44.5}
+        - {x: 114, y: 1.5}
+      - - {x: 59, y: -57.5}
+        - {x: 52, y: -65.5}
+        - {x: 52, y: -75.5}
+        - {x: 63, y: -82.5}
+        - {x: 85, y: -82.5}
+        - {x: 90, y: -79.5}
+        - {x: 90, y: -66.5}
+        - {x: 86, y: -57.5}
+    - name: Guanyu_Hit_00008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 502
+        width: 221
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4841629, y: 0.671875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 52.5}
+        - {x: -85, y: 26.5}
+        - {x: -107, y: 9.5}
+        - {x: -107, y: -107.5}
+        - {x: -63, y: -107.5}
+        - {x: 7, y: -67.5}
+        - {x: 25, y: -35.5}
+        - {x: 25, y: 37.5}
+        - {x: 3, y: 52.5}
+      - - {x: 23, y: -56.5}
+        - {x: 21, y: -57.5}
+        - {x: 21, y: -64.5}
+        - {x: 22, y: -69.5}
+        - {x: 47, y: -69.5}
+        - {x: 49, y: -67.5}
+        - {x: 49, y: -62.5}
+        - {x: 47, y: -56.5}
+      - - {x: 47, y: -7.5}
+        - {x: 36, y: -13.5}
+        - {x: 36, y: -36.5}
+        - {x: 71, y: -43.5}
+        - {x: 113, y: -43.5}
+        - {x: 114, y: -42.5}
+        - {x: 114, y: -18.5}
+        - {x: 109, y: -7.5}
+      - - {x: 71, y: 34.5}
+        - {x: 54, y: 34.5}
+        - {x: 46, y: 31.5}
+        - {x: 37, y: 26.5}
+        - {x: 37, y: 4.5}
+        - {x: 43, y: 2.5}
+        - {x: 70, y: 2.5}
+        - {x: 79, y: 11.5}
+        - {x: 79, y: 23.5}
+    - name: Guanyu_Hit_00009
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 180
+        width: 98
+        height: 165
+      alignment: 9
+      pivot: {x: 1.0714285, y: 0.6454545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 58.5}
+        - {x: -93, y: 16.5}
+        - {x: -105, y: -8.5}
+        - {x: -105, y: -106.5}
+        - {x: -54, y: -106.5}
+        - {x: -24, y: -100.5}
+        - {x: -7, y: -57.5}
+        - {x: -7, y: 35.5}
+        - {x: -12, y: 58.5}
+    - name: Guanyu_Hit_00010
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 174
+        width: 110
+        height: 171
+      alignment: 9
+      pivot: {x: 0.8818182, y: 0.622807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 64.5}
+        - {x: -97, y: 19.5}
+        - {x: -97, y: 17.5}
+        - {x: -82, y: 10.5}
+        - {x: -76, y: 11.5}
+        - {x: -97, y: -16.5}
+        - {x: -97, y: -106.5}
+        - {x: -41, y: -106.5}
+        - {x: -14, y: -101.5}
+        - {x: 5, y: -45.5}
+        - {x: 5, y: 8.5}
+        - {x: -6, y: 64.5}
+      - - {x: 9, y: -20.5}
+        - {x: 11, y: -22.5}
+        - {x: 13, y: -21.5}
+        - {x: 13, y: -15.5}
+        - {x: 10, y: -16.5}
+    - name: Guanyu_Hit_00011
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2
+        width: 101
+        height: 176
+      alignment: 9
+      pivot: {x: 0.84158415, y: 0.6051136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 69.5}
+        - {x: -39, y: 69.5}
+        - {x: -79, y: 16.5}
+        - {x: -85, y: -7.5}
+        - {x: -85, y: -106.5}
+        - {x: -48, y: -106.5}
+        - {x: 5, y: -95.5}
+        - {x: 16, y: -70.5}
+        - {x: 16, y: 43.5}
+    - name: Guanyu_Hit_00012
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 327
+        width: 104
+        height: 179
+      alignment: 9
+      pivot: {x: 0.6923077, y: 0.5949721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 72.5}
+        - {x: -72, y: 29.5}
+        - {x: -72, y: -106.5}
+        - {x: -26, y: -106.5}
+        - {x: 12, y: -96.5}
+        - {x: 32, y: -55.5}
+        - {x: 32, y: 18.5}
+        - {x: -8, y: 72.5}
+    - name: Guanyu_Hit_00013
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2
+        width: 105
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5619048, y: 0.5926966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 72.50001}
+        - {x: -29, y: 72.50001}
+        - {x: -59, y: 36.500008}
+        - {x: -59, y: -105.49999}
+        - {x: -5, y: -105.49999}
+        - {x: 38, y: -91.49999}
+        - {x: 46, y: -62.499992}
+        - {x: 46, y: -0.49999237}
+    - name: Guanyu_Hit_00014
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 151
+        width: 108
+        height: 174
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.60057473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 69.5}
+        - {x: -48, y: 55.5}
+        - {x: -48, y: -104.5}
+        - {x: 30, y: -104.5}
+        - {x: 60, y: -82.5}
+        - {x: 60, y: 14.5}
+        - {x: 13, y: 69.5}
+    - name: Guanyu_Hit_00015
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 182
+        width: 140
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5214286, y: 0.62883437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 15.5}
+        - {x: -36, y: 6.5}
+        - {x: -34, y: 4.5}
+        - {x: -31, y: 4.5}
+        - {x: -29, y: 5.5}
+        - {x: -38, y: -11.5}
+        - {x: -37, y: 14.5}
+        - {x: -32, y: 50.5}
+        - {x: -34, y: 60.5}
+        - {x: -55, y: 60.5}
+        - {x: -67, y: 55.5}
+        - {x: -73, y: 38.5}
+        - {x: -73, y: -82.5}
+        - {x: -71, y: -97.5}
+        - {x: -56, y: -102.5}
+        - {x: 55, y: -102.5}
+        - {x: 67, y: -83.5}
+        - {x: 67, y: 14.5}
+        - {x: -21, y: 46.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

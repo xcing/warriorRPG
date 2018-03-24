@@ -1,0 +1,35 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: light.png (2012 x 2512)
+# $TexturePacker:SmartUpdate:0e21854f2f6d88ff66eca252721384ee:c0466215e45652c55a88446f6e323f13:bb7d09e0569093a79154a7d5f721118c$
+#
+
+Forcewave1_00000;2;2010;500;500;0.5;0.5
+Forcewave1_00001;504;2010;500;500;0.5;0.5
+Forcewave1_00002;504;2010;500;500;0.5;0.5
+Forcewave1_00003;1006;2010;500;500;0.5;0.5
+Forcewave1_00004;1508;2010;500;500;0.5;0.5
+Forcewave1_00005;2;1508;500;500;0.5;0.5
+Forcewave1_00006;504;1508;500;500;0.5;0.5
+Forcewave1_00007;1006;1508;500;500;0.5;0.5
+Forcewave1_00008;1508;1508;500;500;0.5;0.5
+Forcewave1_00009;2;1006;500;500;0.5;0.5
+Forcewave1_00010;504;1006;500;500;0.5;0.5
+Forcewave1_00011;1006;1006;500;500;0.5;0.5
+Forcewave1_00012;1508;1006;500;500;0.5;0.5
+Forcewave1_00013;2;504;500;500;0.5;0.5
+Forcewave1_00014;504;504;500;500;0.5;0.5
+Forcewave1_00015;1006;504;500;500;0.5;0.5
+Forcewave1_00016;1508;504;500;500;0.5;0.5
+Forcewave1_00017;2;2;500;500;0.5;0.5
+Forcewave1_00018;504;2;500;500;0.5;0.5
+Forcewave1_00019;1006;2;500;500;0.5;0.5
+Forcewave1_00020;2;2010;500;500;0.5;0.5
+Forcewave1_00021;2;2010;500;500;0.5;0.5
+Forcewave1_00022;2;2010;500;500;0.5;0.5
+Forcewave1_00023;2;2010;500;500;0.5;0.5
+Forcewave1_00024;2;2010;500;500;0.5;0.5

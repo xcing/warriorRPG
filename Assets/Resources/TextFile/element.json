@@ -1,0 +1,42 @@
+﻿{
+    "1": {
+        "elementId": "1",
+        "name": [
+            "Fire",
+            "\u0e44\u0e1f",
+            ""
+        ]
+    },
+    "2": {
+        "elementId": "2",
+        "name": [
+            "Water",
+            "\u0e19\u0e49\u0e33",
+            ""
+        ]
+    },
+    "3": {
+        "elementId": "3",
+        "name": [
+            "Wind",
+            "\u0e25\u0e21",
+            ""
+        ]
+    },
+    "4": {
+        "elementId": "4",
+        "name": [
+            "Earth",
+            "\u0e14\u0e34\u0e19",
+            ""
+        ]
+    },
+    "5": {
+        "elementId": "5",
+        "name": [
+            "Thunder",
+            "\u0e2a\u0e32\u0e22\u0e1f\u0e49\u0e32",
+            ""
+        ]
+    }
+}

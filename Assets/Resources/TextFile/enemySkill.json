@@ -1,0 +1,27 @@
+﻿{
+    "2": {
+        "1": {
+            "skillId": "1",
+            "enemyId": "2",
+            "useWhen": "1",
+            "hitAmount": "1",
+            "hitDmg": "100",
+            "dmg": "120",
+            "target": "1",
+            "conditionId": "10",
+            "condAcc": "100",
+            "selfCondId": "0",
+            "buffType": "0",
+            "buffValue": "0",
+            "buffTarget": "0",
+            "decreseDmgReceive": "0",
+            "percentUse": "30",
+            "ordinal": "1",
+            "name": [
+                "Blood Absorb",
+                "\u0e14\u0e39\u0e14\u0e40\u0e25\u0e37\u0e2d\u0e14",
+                ""
+            ]
+        }
+    }
+}

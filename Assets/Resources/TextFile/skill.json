@@ -1,0 +1,394 @@
+﻿{
+    "1": {
+        "1": {
+            "skillId": "1",
+            "warriorId": "1",
+            "useWhen": "1",
+            "hitAmount": "1",
+            "hitDmg": "100",
+            "dmg": "150",
+            "dmgUpPerLv": "3",
+            "target": "1",
+            "conditionId": "0",
+            "condAcc": "0",
+            "selfCondId": "0",
+            "buffType": "0",
+            "buffValue": "0",
+            "buffUpPerLv": "0",
+            "buffTarget": "0",
+            "decreseDmgReceive": "0",
+            "decreseDmgReceiveUpPerLv": "0",
+            "percentUse": "40",
+            "percentUseUpPerLv": "5",
+            "ordinal": "1",
+            "name": [
+                "Jump Slash",
+                "\u0e01\u0e23\u0e30\u0e42\u0e14\u0e14\u0e1f\u0e31\u0e19",
+                ""
+            ],
+            "detail": [
+                "Jump Slash",
+                "\u0e01\u0e23\u0e30\u0e42\u0e14\u0e14\u0e1f\u0e31\u0e19\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e23\u0e38\u0e19\u0e41\u0e23\u0e07",
+                "0"
+            ]
+        },
+        "2": {
+            "skillId": "2",
+            "warriorId": "1",
+            "useWhen": "3",
+            "hitAmount": "0",
+            "hitDmg": "0",
+            "dmg": "0",
+            "dmgUpPerLv": "0",
+            "target": "0",
+            "conditionId": "0",
+            "condAcc": "0",
+            "selfCondId": "0",
+            "buffType": "0",
+            "buffValue": "0",
+            "buffUpPerLv": "0",
+            "buffTarget": "0",
+            "decreseDmgReceive": "40",
+            "decreseDmgReceiveUpPerLv": "1",
+            "percentUse": "10",
+            "percentUseUpPerLv": "5",
+            "ordinal": "2",
+            "name": [
+                "Parry",
+                "\u0e1b\u0e31\u0e14\u0e1b\u0e49\u0e2d\u0e07",
+                ""
+            ],
+            "detail": [
+                "Parry all weapon",
+                "\u0e1b\u0e31\u0e14\u0e1b\u0e49\u0e2d\u0e07\u0e2d\u0e32\u0e27\u0e38\u0e18\u0e17\u0e35\u0e48\u0e42\u0e08\u0e21\u0e15\u0e35\u0e40\u0e02\u0e49\u0e32\u0e21\u0e32\u0e25\u0e14\u0e04\u0e48\u0e32\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2a\u0e35\u0e22\u0e2b\u0e32\u0e22",
+                "0"
+            ]
+        },
+        "3": {
+            "skillId": "3",
+            "warriorId": "1",
+            "useWhen": "1",
+            "hitAmount": "3",
+            "hitDmg": "20,30,50",
+            "dmg": "250",
+            "dmgUpPerLv": "4",
+            "target": "2",
+            "conditionId": "0",
+            "condAcc": "0",
+            "selfCondId": "0",
+            "buffType": "5",
+            "buffValue": "10",
+            "buffUpPerLv": "1",
+            "buffTarget": "2",
+            "decreseDmgReceive": "0",
+            "decreseDmgReceiveUpPerLv": "0",
+            "percentUse": "25",
+            "percentUseUpPerLv": "5",
+            "ordinal": "3",
+            "name": [
+                "Dragon Wave",
+                "\u0e04\u0e25\u0e37\u0e48\u0e19\u0e21\u0e31\u0e07\u0e01\u0e23",
+                ""
+            ],
+            "detail": [
+                "Jade Dragon Wave",
+                "\u0e1f\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e44\u0e1b\u0e40\u0e1b\u0e47\u0e19\u0e21\u0e31\u0e07\u0e01\u0e23\u0e40\u0e02\u0e35\u0e22\u0e27",
+                "0"
+            ]
+        }
+    },
+    "2": {
+        "1": {
+            "skillId": "4",
+            "warriorId": "2",
+            "useWhen": "1",
+            "hitAmount": "5",
+            "hitDmg": "20,20,20,20,20",
+            "dmg": "80",
+            "dmgUpPerLv": "2",
+            "target": "3",
+            "conditionId": "1",
+            "condAcc": "15",
+            "selfCondId": "0",
+            "buffType": "0",
+            "buffValue": "0",
+            "buffUpPerLv": "0",
+            "buffTarget": "0",
+            "decreseDmgReceive": "0",
+            "decreseDmgReceiveUpPerLv": "0",
+            "percentUse": "30",
+            "percentUseUpPerLv": "5",
+            "ordinal": "1",
+            "name": [
+                "Fire Breath",
+                "\u0e1e\u0e48\u0e19\u0e44\u0e1f",
+                ""
+            ],
+            "detail": [
+                "Hell Fire Breath",
+                "\u0e14\u0e37\u0e48\u0e21\u0e40\u0e2b\u0e25\u0e49\u0e32\u0e41\u0e25\u0e49\u0e27\u0e1e\u0e48\u0e19\u0e2d\u0e2d\u0e01\u0e21\u0e32\u0e1c\u0e48\u0e32\u0e19\u0e40\u0e1b\u0e25\u0e27\u0e44\u0e1f \u0e2a\u0e23\u0e49\u0e32\u0e07\u0e40\u0e1b\u0e25\u0e27\u0e40\u0e1e\u0e25\u0e34\u0e07\u0e40\u0e1c\u0e32\u0e28\u0e31\u0e15\u0e23\u0e39\u0e40\u0e1b\u0e47\u0e19\u0e27\u0e07\u0e01\u0e27\u0e49\u0e32\u0e07",
+                "0"
+            ]
+        },
+        "2": {
+            "skillId": "5",
+            "warriorId": "2",
+            "useWhen": "1",
+            "hitAmount": "1",
+            "hitDmg": "100",
+            "dmg": "60",
+            "dmgUpPerLv": "2",
+            "target": "4",
+            "conditionId": "6",
+            "condAcc": "20",
+            "selfCondId": "0",
+            "buffType": "0",
+            "buffValue": "0",
+            "buffUpPerLv": "0",
+            "buffTarget": "0",
+            "decreseDmgReceive": "0",
+            "decreseDmgReceiveUpPerLv": "0",
+            "percentUse": "25",
+            "percentUseUpPerLv": "5",
+            "ordinal": "2",
+            "name": [
+                "Beast Roar",
+                "\u0e04\u0e33\u0e23\u0e32\u0e21",
+                ""
+            ],
+            "detail": [
+                "Beast Roarrrr",
+                "\u0e04\u0e33\u0e23\u0e32\u0e21\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e14\u0e31\u0e07\u0e23\u0e32\u0e27\u0e01\u0e31\u0e1a\u0e20\u0e39\u0e40\u0e02\u0e32\u0e16\u0e25\u0e48\u0e21",
+                "0"
+            ]
+        },
+        "3": {
+            "skillId": "6",
+            "warriorId": "2",
+            "useWhen": "1",
+            "hitAmount": "2",
+            "hitDmg": "30,70",
+            "dmg": "400",
+            "dmgUpPerLv": "5",
+            "target": "1",
+            "conditionId": "2",
+            "condAcc": "30",
+            "selfCondId": "1",
+            "buffType": "1",
+            "buffValue": "20",
+            "buffUpPerLv": "2",
+            "buffTarget": "1",
+            "decreseDmgReceive": "0",
+            "decreseDmgReceiveUpPerLv": "0",
+            "percentUse": "20",
+            "percentUseUpPerLv": "5",
+            "ordinal": "3",
+            "name": [
+                "Dark Flame",
+                "\u0e40\u0e1e\u0e25\u0e34\u0e07\u0e14\u0e33",
+                ""
+            ],
+            "detail": [
+                "Dark Framing",
+                "\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e40\u0e1e\u0e25\u0e34\u0e07\u0e14\u0e33\u0e04\u0e25\u0e38\u0e21\u0e15\u0e31\u0e27\u0e41\u0e25\u0e49\u0e27\u0e27\u0e34\u0e48\u0e07\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e1f\u0e31\u0e19",
+                "0"
+            ]
+        }
+    },
+    "7": {
+        "1": {
+            "skillId": "7",
+            "warriorId": "7",
+            "useWhen": "1",
+            "hitAmount": "3",
+            "hitDmg": "30,30,40",
+            "dmg": "150",
+            "dmgUpPerLv": "3",
+            "target": "1",
+            "conditionId": "0",
+            "condAcc": "0",
+            "selfCondId": "0",
+            "buffType": "0",
+            "buffValue": "0",
+            "buffUpPerLv": "0",
+            "buffTarget": "0",
+            "decreseDmgReceive": "0",
+            "decreseDmgReceiveUpPerLv": "0",
+            "percentUse": "40",
+            "percentUseUpPerLv": "5",
+            "ordinal": "1",
+            "name": [
+                "Triple stab",
+                "\u0e41\u0e17\u0e07\u0e2a\u0e32\u0e21\u0e17\u0e35",
+                ""
+            ],
+            "detail": [
+                "0",
+                "\u0e41\u0e17\u0e07\u0e2a\u0e32\u0e21\u0e04\u0e23\u0e31\u0e49\u0e07\u0e40\u0e02\u0e49\u0e32\u0e17\u0e35\u0e48\u0e2b\u0e19\u0e49\u0e32 \u0e04\u0e2d \u0e41\u0e25\u0e30\u0e25\u0e33\u0e14\u0e31\u0e1a \u0e2d\u0e22\u0e48\u0e32\u0e07\u0e23\u0e27\u0e14\u0e40\u0e23\u0e47\u0e27",
+                "0"
+            ]
+        },
+        "2": {
+            "skillId": "8",
+            "warriorId": "7",
+            "useWhen": "4",
+            "hitAmount": "1",
+            "hitDmg": "100",
+            "dmg": "50",
+            "dmgUpPerLv": "1",
+            "target": "1",
+            "conditionId": "0",
+            "condAcc": "0",
+            "selfCondId": "0",
+            "buffType": "0",
+            "buffValue": "0",
+            "buffUpPerLv": "0",
+            "buffTarget": "0",
+            "decreseDmgReceive": "100",
+            "decreseDmgReceiveUpPerLv": "0",
+            "percentUse": "10",
+            "percentUseUpPerLv": "2",
+            "ordinal": "2",
+            "name": [
+                "Dodge & Counter",
+                "\u0e2b\u0e25\u0e1a\u0e41\u0e25\u0e49\u0e27\u0e2a\u0e27\u0e19\u0e01\u0e25\u0e31\u0e1a",
+                ""
+            ],
+            "detail": [
+                "0",
+                "\u0e2b\u0e25\u0e1a\u0e41\u0e25\u0e49\u0e27\u0e42\u0e08\u0e21\u0e15\u0e35\u0e2a\u0e27\u0e19\u0e01\u0e25\u0e31\u0e1a",
+                "0"
+            ]
+        },
+        "3": {
+            "skillId": "9",
+            "warriorId": "7",
+            "useWhen": "1",
+            "hitAmount": "7",
+            "hitDmg": "20,10,10,10,10,10,30",
+            "dmg": "450",
+            "dmgUpPerLv": "6",
+            "target": "1",
+            "conditionId": "2",
+            "condAcc": "20",
+            "selfCondId": "0",
+            "buffType": "0",
+            "buffValue": "0",
+            "buffUpPerLv": "0",
+            "buffTarget": "0",
+            "decreseDmgReceive": "0",
+            "decreseDmgReceiveUpPerLv": "0",
+            "percentUse": "25",
+            "percentUseUpPerLv": "5",
+            "ordinal": "3",
+            "name": [
+                "Dancing Spear",
+                "\u0e2b\u0e2d\u0e01\u0e23\u0e48\u0e32\u0e22\u0e23\u0e33",
+                ""
+            ],
+            "detail": [
+                "0",
+                "\u0e41\u0e17\u0e07\u0e23\u0e31\u0e27\u0e46\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e15\u0e48\u0e2d\u0e40\u0e19\u0e37\u0e48\u0e2d\u0e07",
+                "0"
+            ]
+        }
+    },
+    "8": {
+        "1": {
+            "skillId": "10",
+            "warriorId": "8",
+            "useWhen": "1",
+            "hitAmount": "3",
+            "hitDmg": "20,20,60",
+            "dmg": "130",
+            "dmgUpPerLv": "2",
+            "target": "1",
+            "conditionId": "0",
+            "condAcc": "0",
+            "selfCondId": "0",
+            "buffType": "0",
+            "buffValue": "0",
+            "buffUpPerLv": "0",
+            "buffTarget": "0",
+            "decreseDmgReceive": "0",
+            "decreseDmgReceiveUpPerLv": "0",
+            "percentUse": "30",
+            "percentUseUpPerLv": "5",
+            "ordinal": "1",
+            "name": [
+                "Spin thrash",
+                "\u0e2b\u0e21\u0e38\u0e19\u0e15\u0e31\u0e27\u0e1f\u0e32\u0e14",
+                ""
+            ],
+            "detail": [
+                "0",
+                "\u0e2b\u0e21\u0e38\u0e19\u0e15\u0e31\u0e27\u0e1f\u0e32\u0e14",
+                "0"
+            ]
+        },
+        "2": {
+            "skillId": "11",
+            "warriorId": "8",
+            "useWhen": "2",
+            "hitAmount": "0",
+            "hitDmg": "0",
+            "dmg": "0",
+            "dmgUpPerLv": "0",
+            "target": "1",
+            "conditionId": "0",
+            "condAcc": "0",
+            "selfCondId": "0",
+            "buffType": "2",
+            "buffValue": "10",
+            "buffUpPerLv": "1",
+            "buffTarget": "2",
+            "decreseDmgReceive": "0",
+            "decreseDmgReceiveUpPerLv": "0",
+            "percentUse": "64",
+            "percentUseUpPerLv": "4",
+            "ordinal": "2",
+            "name": [
+                "Roar",
+                "\u0e15\u0e30\u0e42\u0e01\u0e19",
+                ""
+            ],
+            "detail": [
+                "0",
+                "\u0e15\u0e30\u0e42\u0e01\u0e19\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e01\u0e33\u0e25\u0e31\u0e07\u0e43\u0e08",
+                "0"
+            ]
+        },
+        "3": {
+            "skillId": "12",
+            "warriorId": "8",
+            "useWhen": "1",
+            "hitAmount": "1",
+            "hitDmg": "100",
+            "dmg": "200",
+            "dmgUpPerLv": "4",
+            "target": "2",
+            "conditionId": "6",
+            "condAcc": "10",
+            "selfCondId": "0",
+            "buffType": "0",
+            "buffValue": "0",
+            "buffUpPerLv": "0",
+            "buffTarget": "0",
+            "decreseDmgReceive": "0",
+            "decreseDmgReceiveUpPerLv": "0",
+            "percentUse": "20",
+            "percentUseUpPerLv": "5",
+            "ordinal": "3",
+            "name": [
+                "Full thrash",
+                "\u0e1f\u0e32\u0e14\u0e40\u0e15\u0e47\u0e21\u0e41\u0e23\u0e07",
+                ""
+            ],
+            "detail": [
+                "0",
+                "\u0e07\u0e49\u0e32\u0e07\u0e21\u0e37\u0e2d\u0e41\u0e25\u0e49\u0e27\u0e1f\u0e32\u0e14\u0e25\u0e07\u0e44\u0e1b\u0e40\u0e15\u0e47\u0e21\u0e41\u0e23\u0e07",
+                "0"
+            ]
+        }
+    }
+}
